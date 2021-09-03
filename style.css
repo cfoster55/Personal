@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box 3;
+}
+
+body {
+    background-color: #ffebcd;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+div {
+    border: gray solid 2px;
+    width: 150px;
+    color: teal;
+    background-color: white;
+}
